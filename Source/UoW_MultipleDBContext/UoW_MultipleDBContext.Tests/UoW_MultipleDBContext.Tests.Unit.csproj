@@ -138,7 +138,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="WebAPI\Controllers\ApiControllerTests.cs" />
-    <Compile Include="Data\Repositories\CategoryRepositoryTest.cs" />
+    <Compile Include="Service\CategoryServiceTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -154,6 +154,10 @@
       <Project>{9c184254-262c-4b23-a738-b167d2dbddc2}</Project>
       <Name>UoW_MultipleDBContext.Entity</Name>
     </ProjectReference>
+    <ProjectReference Include="..\UoW_MultipleDBContext.Service\UoW_MultipleDBContext.Service.csproj">
+      <Project>{f3082d41-a6bb-4247-aaaf-095d62a73278}</Project>
+      <Name>UoW_MultipleDBContext.Service</Name>
+    </ProjectReference>
     <ProjectReference Include="..\UoW_MultipleDBContext.Web.API\UoW_MultipleDBContext.Web.API.csproj">
       <Project>{112f2dd9-ed16-40c2-9b34-5a5db61287ee}</Project>
       <Name>UoW_MultipleDBContext.Web.API</Name>
@@ -164,7 +168,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Service\" />
+    <Folder Include="Data\Repositories\" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

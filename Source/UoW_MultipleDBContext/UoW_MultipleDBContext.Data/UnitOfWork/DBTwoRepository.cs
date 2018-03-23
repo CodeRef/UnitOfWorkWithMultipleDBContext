@@ -4,7 +4,7 @@ using UoW_MultipleDBContext.Entity;
 
 namespace UoW_MultipleDBContext.Data.UnitOfWork
 {
-    public class DBTwoRepositories<TContext> : UnitOfWork<SecondDbContext>, IDBTwoRepositories
+    public class DBTwoRepositories : UnitOfWork<SecondDbContext>, IDBTwoRepositories
     {
         private IRepository<Department> departmentRepository;
 

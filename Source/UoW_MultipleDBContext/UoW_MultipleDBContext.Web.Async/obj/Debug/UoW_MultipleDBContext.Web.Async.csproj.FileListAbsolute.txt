@@ -250,3 +250,4 @@ C:\NASCO-TECH\GitHUB\UnitOfWorkWithMultipleDBContext\Source\UoW_MultipleDBContex
 C:\NASCO-TECH\GitHUB\UnitOfWorkWithMultipleDBContext\Source\UoW_MultipleDBContext\UoW_MultipleDBContext.Web.Async\obj\Debug\UoW_MultipleDBContext.Web.Async.csproj.CoreCompileInputs.cache
 C:\NASCO-TECH\GitHUB\UnitOfWorkWithMultipleDBContext\Source\UoW_MultipleDBContext\UoW_MultipleDBContext.Web.Async\obj\Debug\UoW_MultipleDBContext.Web.Async.dll
 C:\NASCO-TECH\GitHUB\UnitOfWorkWithMultipleDBContext\Source\UoW_MultipleDBContext\UoW_MultipleDBContext.Web.Async\obj\Debug\UoW_MultipleDBContext.Web.Async.pdb
+C:\--CodeRef\GitHub.Com\UnitOfWorkWithMultipleDBContext\Source\UoW_MultipleDBContext\UoW_MultipleDBContext.Web.Async\obj\Debug\UoW_MultipleDBContext.Web.Async.csproj.CopyComplete
